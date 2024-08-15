@@ -6,3 +6,8 @@ pillow==10.2.0
 pytube==15.0.0
 ffmpeg-python
 dill
+streamlit==1.19.0
+ultralytics==8.0.0
+opencv-python==4.9.0.80
+pillow==10.2.0
+matplotlib==3.8.3
